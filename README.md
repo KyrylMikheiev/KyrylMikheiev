@@ -28,4 +28,8 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyrylmikheiev&show_icons=true&locale=en&layout=compact" alt="kyrylmikheiev" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyrylMikheiev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+</p>
+
+<br>
