@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **Chess game in C**
 
+- 🍴 I plan to create a **nutrition tracker app** using **React**
+  
 - 🌱 I’m currently learning **C (SDL3)**
 
 - 📫 How to reach me **kyrylmikheiev20.11@gmail.com**
