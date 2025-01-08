@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kyryl Mikheiev</h1>
 <h3 align="center">A fullstack developer from Ukraine</h3>
 <br>
-<p>I have a lot of experience in web development. However, as we know, npm gets new packages every day. In order to get, how things work under the hood, i play around with some low-level languages</p>
+<p>I have a lot of experience in web development. However, as we know, npm gets updated every single day. In order to get, how things work under the hood, i play around with some low-level languages</p>
 
 - 🌱 I’m currently learning **C (SDL3)**
 - 🍴 I plan to create a **nutrition tracker app** using **React** 
