@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kyryl Mikheiev</h1>
 <h3 align="center">A fullstack developer from Ukraine</h3>
 <br>
-<p>I have a lot of experience in web development. However, as we know, npm gets updated every single day. In order to get, how things work under the hood, i play around with some low-level languages. Nevertheless, i like using JavaScript for its simplicity. If i want to create an app for personal usage, i would choose JavaScript and have some fun as well.</p>
+<p>I have a lot of experience in web development. However, as we know, npm gets updated every single day. In order to get, how things work under the hood, i play around with some low-level languages. Nevertheless, i like using JavaScript for its simplicity. If i want to create an app for personal usage, i would choose JavaScript and have some fun as well :)</p>
 
-- 🌱 I’m currently learning **C (SDL3)**
-- 🍴 I plan to create a **goal tracker app** using **React** 
-- 🔭 I’m currently working on **Chess game in C**
+- 🌱 I’m currently learning **Python**
+- 🍴 I plan to learn a **C** using **SDL3** building some game
+- 🔭 I’m currently working on **Chess game on Python**
 - 📫 How to reach me **kyrylmikheiev20.11@gmail.com**
 
 <br>
