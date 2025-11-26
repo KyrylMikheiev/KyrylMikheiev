@@ -29,10 +29,4 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyrylMikheiev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-</p>
-
-<br>
-
 <p>Who does use a white theme on github?...</p>
