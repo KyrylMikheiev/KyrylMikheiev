@@ -3,10 +3,10 @@
 <br>
 <p>I have a lot of experience in web development. However, as we know, npm gets updated every single day. In order to get, how things work under the hood, i play around with some low-level languages. Nevertheless, i like using JavaScript for its simplicity. If i want to create an app for personal usage, i would choose JavaScript and have some fun as well :)</p>
 
-- 🌱 I’m currently learning **Python**
-- 🍴 I plan to learn a **C** using **SDL3** building some game
-- 🔭 I’m currently working on **Chess game on Python**
-- 📫 How to reach me **kyrylmikheiev20.11@gmail.com**
+- 🌱 I’m currently learning how computers work (from transistors to os)
+- 🍴 I plan to learn a **C** to write my own **http server** or use **SDL3** to build some game 
+- 🔭 I’m currently working on __. My last project was Data Science Project where i used **R** to analyse football games
+- 📫 How to reach me **kyryl.programming@gmail.com**
 
 <br>
 
@@ -17,6 +17,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="typescript" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -24,6 +25,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 </p>
 
