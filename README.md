@@ -3,9 +3,9 @@
 <br>
 <p>I have a lot of experience in web development. However, as we know, npm gets updated every single day. In order to get, how things work under the hood, i play around with some low-level languages. Nevertheless, i like using JavaScript for its simplicity. If i want to create an app for personal usage, i would choose JavaScript and have some fun as well :)</p>
 
-- 🌱 I’m currently learning how computers work (from transistors to os)
+- 🌱 I’m currently learning how __computers__ work (from transistors to os)
 - 🍴 I plan to learn a **C** to write my own **http server** or use **SDL3** to build some game 
-- 🔭 I’m currently working on __. My last project was Data Science Project where i used **R** to analyse football games
+- 🔭 I’m currently working on __. My last project was **Data Science** Project where i used **R** to analyse football games
 - 📫 How to reach me **kyryl.programming@gmail.com**
 
 <br>
